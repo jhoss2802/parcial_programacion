@@ -1,1 +1,1 @@
-# parcial_programacion
+# parcial_programacion hice un programa en el cual se muestra una matriz de 3 filas y 3 columnas,en el que el usuario debe de ingresar las cantidades y una vez ingresados los datos se muestra la grafica de la matriz en pantalla
